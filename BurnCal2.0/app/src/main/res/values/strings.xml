@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BurnCal2.0</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="exerciseCategories">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg-lifts</item>
+        <item>Planks</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="reps">reps</string>
+    <string name="min">min</string>
+    <string name="convert">Convert!</string>
+    <string name ="choose_exercise"> Select your exercise! </string>
+    <string name ="how_much"> How many reps/min </string>
+</resources>
